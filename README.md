@@ -52,4 +52,10 @@ As of 03/08/2016 I am available for work in the following roles:
 
 --------------------------------------------------------------------------------
 
-<https://cantabo.herokuapp.com/>
+# Cantabo - Live Lyrics App
+
+You can visit a live copy of app [here](https://cantabo.herokuapp.com/).**
+
+<sup>** Note that the app is hosted on Heroku so may take a few moments for the dyno to spin up.</sup>
+
+Click here to view the [repo]().
