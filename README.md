@@ -1,15 +1,18 @@
-# Full Stack Web Developer
+# **Full Stack Web Developer**
 
-This is my [GitHub](https://github.com/noccer) indexOf page. Here you will find a brief description of my projects as well as links to the full repo's.
+This is my [GitHub](https://github.com/noccer) indexOf page, built for your convenience. Here you will find a brief description of my skills as well as links to my project repo's.
 
-As of 03/08/2016 I am available for work in the following roles:
+As of 3rd Aug 2016 I am available for work in any of the following roles:
 
 - Full Stack Web Developer
 - Backend Web Developer
 - Frontend Web Developer
 - Software Project Manager
+- Freelance Web Developer
 
-## Core Programming Skills:
+--------------------------------------------------------------------------------
+
+## Core Programming Skills as of 3rd Aug 2016:
 
 - JavaScript
 - NodeJS
@@ -52,9 +55,49 @@ As of 03/08/2016 I am available for work in the following roles:
 
 --------------------------------------------------------------------------------
 
-# Cantabo - Live Lyrics App
+# **Backend Web Development**
+
+--------------------------------------------------------------------------------
+
+## Cantabo - Live Lyrics App
+
+### Tech Stack & Tools:
+
+- Ruby
+- Ruby on Rails
+- PostgreSQL
+- CSS3
+- Heroku
+- Invision App (wireframing)
+- HTML5
+- CSS3 (100% my own styling)
+- AnimateJS
+
+![Cantabo Screenshot](#)
 
 You can visit a live copy of app [here](https://cantabo.herokuapp.com/).**
+
+<sup>** Note that the app is hosted on Heroku so may take a few moments for the dyno to spin up.</sup>
+
+Click here to view the [repo](#).
+
+--------------------------------------------------------------------------------
+
+## Queuer - Restaurant / Cafe queueing app
+
+### Tech Stack & Tools:
+
+- JavaScript
+- NodeJS
+- MongoDB
+- HTML5
+- MomentJS
+- SkeletonCSS
+- **...**
+
+![Queuer Screenshot](#)
+
+You can visit a live copy of app [here](#).**
 
 <sup>** Note that the app is hosted on Heroku so may take a few moments for the dyno to spin up.</sup>
 
