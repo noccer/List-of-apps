@@ -1,15 +1,11 @@
-<head>
-  <link href='https://fonts.googleapis.com/css?family=Sanchez|Raleway:400,600' rel='stylesheet' type='text/css'>
-</head>
-
 <div style="text-align: center; font-family: 'Sanchez', Raleway; font-weight: 600;">
 
 <h1><strong>Niall O'Callaghan</strong></h1>
 
-<img src="img/niall_300.JPG" alt="Niall" style="border-radius:50%; border: 3px solid grey; box-shadow: 0 0 5px grey; max-width: 200px;">
+<img src="img/niall_150.JPG" alt="Niall" style="border-radius:50%; border: 3px solid grey; box-shadow: 0 0 5px grey; max-width: 150px;">
 
-<h2><code>Full Stack Web Developer</code></h2>
-<h3><em>Melbourne, Australia</em></h3>
+<h2>Full Stack Web Developer</h2>
+<h3>Melbourne, Australia</h3>
 
 </div>
 
