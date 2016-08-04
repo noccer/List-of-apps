@@ -90,7 +90,7 @@ You can visit a live copy of app [here](https://cantabo.herokuapp.com/).**
 
 <sup>** Note that the app is hosted on Heroku so may take a few moments for the dyno to spin up.</sup>
 
-Click here to view the [repo](#).
+Click [here](https://github.com/noccer/Cantabo) to view the repository.
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
