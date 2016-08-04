@@ -95,7 +95,7 @@ Click here to view the [repo](#).
 --------------------------------------------------------------------------------
 
 Work still in progress...
-```markdown
+```
 ## Queuer - Restaurant / Cafe queueing app
 
 ### Tech Stack & Tools:
