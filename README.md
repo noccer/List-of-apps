@@ -1,4 +1,19 @@
-# **Full Stack Web Developer**
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Sanchez|Raleway:400,600' rel='stylesheet' type='text/css'>
+</head>
+
+<div style="text-align: center; font-family: 'Sanchez', Raleway; font-weight: 600;">
+
+<h1><strong>Niall O'Callaghan</strong></h1>
+
+<img src="img/niall_300.JPG" alt="Niall" style="border-radius:50%; border: 3px solid grey; box-shadow: 0 0 5px grey; max-width: 200px;">
+
+<h2><code>Full Stack Web Developer</code></h2>
+<h3><em>Melbourne, Australia</em></h3>
+
+</div>
+
+********
 
 This is my [GitHub](https://github.com/noccer) indexOf page, built for your convenience. Here you will find a brief description of my skills as well as links to my project repo's.
 
