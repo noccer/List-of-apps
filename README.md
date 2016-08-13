@@ -111,6 +111,8 @@ Please click [here](https://github.com/noccer/Cantabo) to learn more about this 
 - CSS3 (100% my own styling)
 - AnimateJS
 
+[Live Demo](noccer.github.io/tic-tac-toe/)
+
 --------------------------------------------------------------------------------
 
 ## Queuer - Restaurant / Cafe queueing app
@@ -121,6 +123,7 @@ Please click [here](https://github.com/noccer/Cantabo) to learn more about this 
 - NodeJS
 - MongoDB
 - HTML5
+- jQuery
 - MomentJS
 - SkeletonCSS
 - **...**
